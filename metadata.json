@@ -1,0 +1,6 @@
+{
+  "name": "EstateMaster: Landlord Tycoon & Property Simulator",
+  "description": "A comprehensive real estate landlord simulator. Balance monthly cash flow, set competitive rent, manage depreciation and maintenance, leverage equity loans to expand from starter houses to commercial skyscrapers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
